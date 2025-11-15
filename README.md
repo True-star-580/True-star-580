@@ -8,10 +8,9 @@
 I'm Paul, a Data Scientist with a strong foundation in Data Science, Machine Learning (ML), and Deep Learning (DL). Skilled in Generative AI, Computer Vision (CV), Natural Language Processing (NLP), Web Scraping, Python, Geograpy Infromation System(GIS- Google Earth Engine & QGIS) and MySQL, and eager to use these talents in transformative Data Science, ML, and AI projects.
 </h4>
 
-- 👀 I’m interested in Machine Learning Engineer  
-- 🌱 I’m currently learning Machine Learning and Computer Vision at WorldQuant University  
-- 💡 I am enrolled in R programming and Statistics (Udemy) – upskilling my R language skills
--  💬 Ask me about **Data Science, AI, Python**
+- 👀 I’m interested in Data Science and Artificial Intelligence
+- 🌱 I’m currently enhancing my skills in Computer Vision
+-  💬 Ask me about **Data Science, AI, and Python**
 
 <div align="center">
  <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> <img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"></h2> 
