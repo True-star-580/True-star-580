@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-I'm a Data Scientist with a strong foundation in Data Science, Machine Learning (ML), and Deep Learning (DL). Skilled in Generative AI, Computer Vision (CV), Natural Language Processing (NLP), Web Scraping, Python, Geograpy Infromation System(GIS- Google Earth Engine & QGIS) and MySQL, and eager to use these talents in transformative Data Science, ML, and AI projects.
+I'm Paul, a Data Scientist with a strong foundation in Data Science, Machine Learning (ML), and Deep Learning (DL). Skilled in Generative AI, Computer Vision (CV), Natural Language Processing (NLP), Web Scraping, Python, Geograpy Infromation System(GIS- Google Earth Engine & QGIS) and MySQL, and eager to use these talents in transformative Data Science, ML, and AI projects.
 </h4>
 
 - 👀 I’m interested in Data Science and Artificial Intelligence
